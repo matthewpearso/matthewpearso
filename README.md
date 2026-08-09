@@ -2,7 +2,7 @@
 
 - 📚 I study computer science at Davidson College. 
 - ⚙️ I work on backend development, and I'm interested in infra and distributed systems. 
-- 🧑‍💻 Right now, I'm spending most of my time studying for technical interviews!
+- 🧑‍💻 Right now, I spend most of my time studying for technical interviews!
 
 <!--
 **matthewpearso/matthewpearso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
