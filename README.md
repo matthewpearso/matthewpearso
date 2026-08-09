@@ -1,6 +1,6 @@
 ## Hey, I'm Matthew 👋
 
-- 📚 I'm an undergraduate studying computer science at Davidson College. 
+- 📚 I study computer science at Davidson College. 
 - ⚙️ I work on backend development, and I'm interested in infra and distributed systems. 
 - 🧑‍💻 Right now, I'm spending most of my time studying for technical interviews!
 
