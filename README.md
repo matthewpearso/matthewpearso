@@ -1,8 +1,8 @@
 ## Hey, I'm Matthew 👋
 
-### 📚 I'm an undergraduate studying computer science at Davidson College. 
-### ⚙️ I'm currently interested in backend development, infrastructure, and distributed systems. 
-### 🧑‍💻 Right now, I'm spending most of my time studying for software engineering technical interviews!
+### 📚  I'm an undergraduate studying computer science at Davidson College. 
+### ⚙️  I'm currently interested in backend development, infrastructure, and distributed systems. 
+### 🧑‍💻  Right now, I'm spending most of my time studying for software engineering technical interviews!
 
 <!--
 **matthewpearso/matthewpearso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
