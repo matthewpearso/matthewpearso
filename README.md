@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey, I'm Matthew
+
+I'm an undergraduate studying computer science at Davidson College. I'm interested in backend and infrastructure development. Right now, I'm spending most of my time preparing for software engineering technical interviews!
 
 <!--
 **matthewpearso/matthewpearso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
