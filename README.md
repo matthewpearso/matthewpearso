@@ -1,4 +1,4 @@
-## Hey, I'm Matthew 👋
+## Hey, I'm Matthew
 
 - 📚 I study computer science at Davidson College. 
 - ⚙️ I work on backend development, and I'm interested in infra and distributed systems. 
